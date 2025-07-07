@@ -1,0 +1,10 @@
+groups:
+  - name: anomaly-alerts
+    rules:
+      - alert: MLAnomalyDetected
+        expr: anomaly_score > 0
+        for: 30s
+        labels:
+          severity: high
+        annotations:
+          summary: "ML detected an anomaly in system behavior"
