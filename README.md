@@ -1,4 +1,4 @@
-# 🔍 CLVS Mini Project – Anomaly Detection Monitoring System
+# Anomaly Detection Monitoring System
 
 A beginner-friendly machine learning project that simulates real-time anomaly detection using a trained ML model. It also integrates monitoring tools like Prometheus to provide visibility into anomalies in numeric data — ideal for industrial and IoT applications.
 
