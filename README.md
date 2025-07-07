@@ -35,11 +35,7 @@ monitoring-system/
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
----
 
 ## ⚙️ How It Works
 
